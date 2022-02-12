@@ -1,4 +1,4 @@
-A new Flutter application.
+This Project was created for HACK THE LEAGUE MLH HACKATHON 2022
 </div>
 
 # Hello :wave:
